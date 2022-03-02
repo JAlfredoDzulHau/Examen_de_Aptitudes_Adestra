@@ -41,7 +41,7 @@ FECHA: 25 de Febrero de 2022
 <BR></BR>
 ![image](https://user-images.githubusercontent.com/70233261/156192822-cd0afe10-250e-4dfe-b9d0-56c12cc51eba.png)
 <BR></BR>
-2. Creamos el código para leer los registros que contiene el archivo txt y guardarlos en en la tabla llamada "depositos" de mi BD.
+2. Creamos el código para leer los registros que contiene el archivo txt y guardarlos en la tabla llamada "depositos" de mi BD.
 <BR></BR>
 ![Insertar datos](https://user-images.githubusercontent.com/70233261/156193341-2c0ca946-15a5-4092-b8b6-2e2dea34562e.png)
 <BR></BR>
