@@ -67,9 +67,11 @@ Idusuario(auto_incrementeal) / nombre / email / gustos
 <BR></BR>
 1. Creamos el código para la sucesión númerica
 <BR></BR>
-![sucesión númerica](https://user-images.githubusercontent.com/70233261/156194702-33638087-88cd-4757-b1e7-8d69f450a447.png)
+![sucesión númerica](https://user-images.githubusercontent.com/70233261/156417412-8a287f74-4bc7-4f52-b6ad-9ceb4201e625.png)
+
 <BR></BR>
-![image](https://user-images.githubusercontent.com/70233261/156194968-2b1a877f-7e21-4a2f-a969-86c8eb8a57ca.png)
+![image](https://user-images.githubusercontent.com/70233261/156417488-5b21d5d4-41af-4e77-b1f9-563354319cd2.png)
+
 
 ## Licencia 📄
 
